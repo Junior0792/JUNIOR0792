@@ -19,7 +19,7 @@ Sou da **Venezuela** falo Espanhol e Português fluente ( residência no Brasil 
 
 
 
-[https://www.linkedin.com/in/junior-roso-1125341b2/](
+
 
 
 ![Snake animation](https://github.com/Junior0792
