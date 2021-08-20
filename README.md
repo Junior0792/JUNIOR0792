@@ -8,10 +8,10 @@ Sou da **Venezuela** falo Espanhol e Português fluente ( residência no Brasil 
 
 ###🌎🌎🌎 *El Mundo nos espera!!! 🌎🌎🌎
 
-🇻🇪 Venezolano "Brazilerado"
-🎤 *Cantar 
-🏳️‍🌈 Orgullo LGBTQIA+
-♋ Canceriano
+🇻🇪 Venezolano "Brazilerado"/
+🎤 *Cantar /
+🏳️‍🌈 Orgullo LGBTQIA+/
+♋ Canceriano/
 🍄 Siempre libre
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=TU+PUEDES+CREAR+CODIGOS+)](https://git.io/typing-svg)
