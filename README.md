@@ -1,7 +1,9 @@
 # *"HOLA"👽*
 ## *BELEZA!*
 Sou estudante de Análise e Desenvolvimento de Software no Instituto Infnet.
+
 Estou estudando atualmente **Java* e *Python**
+
 Sou da **Venezuela** falo Espanhol e Português fluente ( residência no Brasil a mais de 5 anos).
 
 ###🌎🌎🌎 *El Mundo nos espera!!! 🌎🌎🌎
