@@ -22,7 +22,6 @@ Sou da **Venezuela** falo Espanhol e Português fluente ( residência no Brasil 
 
 
 
-![Snake animation](https://github.com/Junior0792
-/blob/output/github-contribution-grid-snake.svg)
+
 
 
