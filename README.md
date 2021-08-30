@@ -6,7 +6,7 @@ Estou estudando atualmente **Java* e *Python**
 
 Sou da **Venezuela** falo Espanhol e Português fluente ( residência no Brasil a mais de 5 anos).
 
-🌎🌎🌎 *El Mundo nos espera!!! 🌎🌎🌎
+🌎🌎🌎 El Mundo nos espera!!! 🌎🌎🌎
 
 🇻🇪 Venezolano "Brazilerado"/
 🎤 *Cantar /
