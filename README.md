@@ -1,6 +1,6 @@
 # *"HOLA"👽*
 ## *BELEZA!*
-Sou estudante de Análise e Desenvolvimento de Software no Instituto Infnet.
+Sou Estudante de Análise e Desenvolvimento de Software no Instituto Infnet.
 
 Estou estudando atualmente **Java* e *Python**
 
