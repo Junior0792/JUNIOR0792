@@ -30,7 +30,7 @@
 
 Vamos construir algo incrível juntos! 😄
 
-👥 [Entre em contato](junior.roso92@gmail.com)
+👥 junior.roso92@gmail.com
 
 
 
