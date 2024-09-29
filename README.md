@@ -33,11 +33,6 @@ Vamos construir algo incrível juntos! 😄
 👥 [Entre em contato](junior.roso92@gmail.com)
 
 
-Sinta-se à vontade para personalizar ainda mais o texto!
-
-
-
-
 
 
 
