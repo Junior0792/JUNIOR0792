@@ -1,6 +1,6 @@
 [![Banner GitHub](https://via.placeholder.com/1200x300/4A90E2/FFFFFF/?text=Coding+the+Future+|+Developer+in+Progress+|+AI+Enthusiast)](https://github.com/username)
 
-# 👋 Olá, eu sou [Junior Roso]!
+# 👋 Olá, eu sou Junior Roso!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=TU+PUEDES+CREAR+CODIGOS+)](https://git.io/typing-svg)  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=PUEDES+HACER+LO+QUE+TE+DE+LA+GANA!+)](https://git.io/typing-svg)  
