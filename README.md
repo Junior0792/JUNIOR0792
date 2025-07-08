@@ -1,11 +1,3 @@
-[![Banner GitHub](https://via.placeholder.com/1200x300/4A90E2/FFFFFF/?text=Coding+the+Future+|+Developer+in+Progress+|+AI+Enthusiast)](https://github.com/username)
-
-# 👋 Olá, eu sou Junior Roso!
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=TU+PUEDES+CREAR+CODIGOS+)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=PUEDES+HACER+LO+QUE+TE+DE+LA+GANA!+)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=나는+미래의+프로그래머다+)](https://git.io/typing-svg)  
-
 ### Um desenvolvedor apaixonado por tecnologia e aprendizado constante
 
 🇻🇪 **Sou da Venezuela**, mas estou morando no Brasil há mais de 6 anos, o que tem sido uma jornada incrível tanto pessoal quanto profissionalmente!  
